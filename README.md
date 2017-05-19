@@ -1,2 +1,2 @@
 # git-github
-First Git tutorial practice by Amarnath
+First Git hub tutorial practice by Amarnath
